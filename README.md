@@ -30,7 +30,7 @@ I'm a passionate Software Engineer with 4+ years of experience in backend develo
 - **Software Development Engineer – Backend** at Rapyuta Robotics (Tokyo, Japan)
 - **Software Engineer – Backend** at Yokogawa Electric Corporation (Tokyo, Japan)
 
-  ### 🎓 Education
+### 🎓 Education
 
 - **MS in Computer Science** - Columbia University (Expected Dec 2024)
 - **BTech in Computer Science** - Indian Institute of Technology, Hyderabad (May 2019)
