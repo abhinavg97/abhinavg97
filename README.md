@@ -37,7 +37,7 @@ I'm a passionate Software Engineer with 4+ years of experience in backend develo
 
 ### 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabhinav001&show_icons=true&theme=radical)
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavg97&show_icons=true&theme=radical)
 
 ### 🌐 Connect with me
 
